@@ -1,4 +1,7 @@
-# api documentation for  [fancy-log (v1.3.0)](https://github.com/js-cli/fancy-log#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-fancy-log.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fancy-log) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fancy-log.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fancy-log)
+# npmdoc-fancy-log
+
+#### basic api documentation for  [fancy-log (v1.3.0)](https://github.com/js-cli/fancy-log#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-fancy-log.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fancy-log) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fancy-log.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fancy-log)
+
 #### Log things, prefixed with a timestamp
 
 [![NPM](https://nodei.co/npm/fancy-log.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fancy-log)
@@ -81,7 +84,8 @@
     "scripts": {
         "test": "lab -cvL test.js"
     },
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
